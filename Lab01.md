@@ -16,11 +16,11 @@
 | Get-ChildItem | ls    |   Lists all directorys in that file    |
 | mkdir   | mkdir       |   Makes a directory    |
 | Set-Location | cd     |   Sets my location to a set file    |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| New-Item | touch      |   Creates an item in a set location     |
+| Move-Item | mv        |   Moves an item to a set location    |
+| Copy-Item | cp        |   Copys an item from a set location     |
+| Remove-Item | rm      |   Removes and item from a set location  |
+| notepad.exe | vim     |   Opens notepad    |
 
 ## Part 3 - Command Line Navigation
 
