@@ -11,11 +11,11 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
+| help    | man         |   Displays a help display about windows powershell     |
+| Get-Location | pwd    |   Gives me my current location     |
+| Get-ChildItem | ls    |   Lists all directorys in that file    |
+| mkdir   | mkdir       |   Makes a directory    |
+| Set-Location | cd     |   Sets my location to a set file    |
 | New-Item | touch      |        |
 | Move-Item | mv        |        |
 | Copy-Item | cp        |        |
